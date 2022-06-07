@@ -1,4 +1,4 @@
-# Interface Responsiva Netflix
+# **Interface Responsiva Netflix**
 
 Esse é um clone de versão anterior da Interface da Netflix.
 
